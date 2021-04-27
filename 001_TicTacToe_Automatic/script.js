@@ -1,4 +1,4 @@
-/// <reference path="./libraries/p5.global-mode.d.ts" />
+/// <reference path="../libraries/p5.global-mode.d.ts" />
 // on mousePressed play random move
 // very loosly inspirated by https://www.youtube.com/watch?v=GTWrWM1UsnA
 // done a day after seeing it, from zero, some aspects are better, some are not
